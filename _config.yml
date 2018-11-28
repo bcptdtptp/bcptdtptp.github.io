@@ -1,0 +1,23 @@
+
+title: My Application
+url: 'http://junlulocky.com'
+baseurl: '/GraduateProgramApplication' #change it according to your repository name
+
+
+
+# Profile information
+yourname: Nan Zhang  ## put your name
+title: 'GRAPHIC &amp; WEB DESIGNER'  ## your title
+location: Muncie , IN
+
+
+## Social Profiles
+facebook: https://www.facebook.com/nan.zhang.3152130 ## your facebook account url
+twitter: http://www.twitter.com  ## your twitter account url
+linkedin: www.linkedin.com/in/nan-zhang-19940730  ## your linkedin account url
+dribbble: http://www.dribble.com  ## you dribbble account url
+foursquare: http://www.foursquare.com  ## your foursquare account url
+
+
+
+# Update all the sections by editing the files inside _includes folder.
